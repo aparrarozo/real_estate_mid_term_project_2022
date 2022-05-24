@@ -2,7 +2,7 @@
 
 ![alt text](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# ironhack DATA ANALYSIS Jan2022
+# Ironhack Data Analytics_Jan2022
 
 - Members of the group: Odelia Ahdout, Adriana Cuppuleri, Alejandra Parra,
 - Goal of the project: Our aim is to build a model that will predict the price of a house based on features provided in the dataset (e.g., area, number of rooms, etc.). One of those parameters includes understanding which factors are responsible for higher property value - $650K and above. 
